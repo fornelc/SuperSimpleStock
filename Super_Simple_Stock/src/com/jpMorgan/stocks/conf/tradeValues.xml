@@ -1,0 +1,71 @@
+<configTrade>
+	<trade>
+		<stockType>TEA</stockType>
+		<indicator>BUY</indicator>
+		<quantity>50</quantity>
+		<price>15.80</price>
+	</trade>
+	
+	<trade>
+		<stockType>TEA</stockType>
+		<indicator>SELL</indicator>
+		<quantity>12</quantity>
+		<price>1.8</price>
+	</trade>
+	
+	<trade>
+		<stockType>POP</stockType>
+		<indicator>SELL</indicator>
+		<quantity>25</quantity>
+		<price>24.3</price>
+	</trade>
+	
+	<trade>
+		<stockType>POP</stockType>
+		<indicator>SELL</indicator>
+		<quantity>84</quantity>
+		<price>37.1</price>
+	</trade>
+	
+	<trade>
+		<stockType>ALE</stockType>
+		<indicator>BUY</indicator>
+		<quantity>32</quantity>
+		<price>22.3</price>
+	</trade>
+	
+	<trade>
+		<stockType>ALE</stockType>
+		<indicator>SELL</indicator>
+		<quantity>55</quantity>
+		<price>15.8</price>
+	</trade>
+	
+	<trade>
+		<stockType>GIN</stockType>
+		<indicator>BUY</indicator>
+		<quantity>58</quantity>
+		<price>33.3</price>
+	</trade>
+	
+	<trade>
+		<stockType>GIN</stockType>
+		<indicator>BUY</indicator>
+		<quantity>0</quantity>
+		<price>17.14</price>
+	</trade>
+	
+	<trade>
+		<stockType>JOE</stockType>
+		<indicator>SELL</indicator>
+		<quantity>54</quantity>
+		<price>45.21</price>
+	</trade>
+	
+	<trade>
+		<stockType>JOE</stockType>
+		<indicator>SELL</indicator>
+		<quantity>20</quantity>
+		<price>10.5</price>
+	</trade>
+</configTrade>
